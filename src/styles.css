@@ -16,6 +16,15 @@ body {
   color: #212121;
 }
 
+.timer {
+  background-color: aliceblue;
+  padding: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  color: #212121;
+}
+
 .wrapper {
   padding: 30px;
   margin-left: auto;
